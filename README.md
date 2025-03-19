@@ -13,8 +13,9 @@ Este repositório contém projetos em Python, organizados por nível de dificuld
 
 ### 🔴 Avançado (em breve)
 
-
-
 ---
-
 📌 **Nota**: Acesse a pasta de cada projeto para ver detalhes sobre tecnologias, funcionalidades e instruções de execução.
+
+### 📜 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE). Consulte o arquivo `LICENSE` para mais detalhes.
