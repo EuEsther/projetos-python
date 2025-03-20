@@ -1,4 +1,4 @@
-# Projetos Python
+# Projetos em Python 🐍
 
 Este repositório contém projetos em Python, organizados por nível de dificuldade. Cada projeto possui sua própria documentação e instruções de uso.
 
