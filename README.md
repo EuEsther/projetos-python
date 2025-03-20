@@ -1,21 +1,25 @@
 # Projetos em Python 🐍
 
-Este repositório contém projetos em Python, organizados por nível de dificuldade. Cada projeto possui sua própria documentação e instruções de uso.
+Bem-vindo ao repositório de projetos em Python! Aqui você encontrará diversos projetos organizados por nível de dificuldade, cada um com sua própria documentação e instruções de uso.  
 
-## Sumário
+## 📖 Sumário
 
-### 🟢 Básico
-1. [Encurtador de URLs](/basico/encurtador-urls)
-2. (em breve)
+### 🟢 Básico  
+- [Encurtador de URLs](/basico/encurtador-urls)  
+- 🔜 Mais projetos em breve...  
 
-### 🟡 Intermediário (em breve)
+### 🟡 Intermediário  
+- 🔜 Em breve...  
 
-
-### 🔴 Avançado (em breve)
+### 🔴 Avançado  
+- 🔜 Em breve...  
 
 ---
-📌 **Nota**: Acesse a pasta de cada projeto para ver detalhes sobre tecnologias, funcionalidades e instruções de execução.
 
-### 📜 Licença
+## 📌 Como usar este repositório?  
+- Acesse a pasta de cada projeto para ver detalhes sobre tecnologias, funcionalidades e instruções de execução.
 
-Este projeto está licenciado sob a [MIT License](LICENSE). Consulte o arquivo `LICENSE` para mais detalhes.
+---
+
+## 📜 Licença  
+Este repositório está licenciado sob a [MIT License](LICENSE). Consulte o arquivo `LICENSE` para mais detalhes.  
